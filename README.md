@@ -80,6 +80,7 @@ AI/ML · RAG · OCR · APIs · Vite · Tailwind CSS
 | [DripLink](https://github.com/Subaru-tech/driplinkk-website) | 3D model marketplace — creators upload, sellers sell, full auth + dashboards + payments | Next.js 16 · React 19 · Supabase · Tailwind CSS | `BUILDING` |
 | [documind](https://github.com/Subaru-tech/documind) | Self-hosted document intelligence — chat with PDFs, extract data, OCR, all local | Python · FastAPI · React · Ollama · ChromaDB · Docker | `BUILDING` |
 | [Daily News Agent](https://github.com/Subaru-tech/Daily-News-Agent) | AI news aggregation — 20+ sources, structured + LLM verification, Telegram digests | Python · FastAPI · Telegram Bot · Google Calendar | `BUILDING` |
+| [med-box](https://github.com/Subaru-tech/med-box) | IoT + Flutter + Firebase + ESP32 — smart notice board with real-time cloud sync | Flutter · Dart · Firebase · ESP32 · Arduino | `BUILDING` |
 
 ---
 
