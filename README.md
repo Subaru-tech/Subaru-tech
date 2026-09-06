@@ -1,116 +1,206 @@
+<div align="center">
+
 # SUBARU
 
 ### Building systems at the edge of AI, software & hardware.
 
-Builder · Entrepreneur · AI · R&D · Systems
+<br/>
+
+**Builder** · **Entrepreneur** · **AI** · **R&D** · **Systems**
+
+<br/>
 
 ```
-╔══════════════════════════════════════╗
-║ SUBARU // ENGINEERING LAB            ║
-╠══════════════════════════════════════╣
-║ STATUS     ● BUILDING                ║
-║ FOCUS      AI / R&D / SYSTEMS        ║
-║ MODE       EXPERIMENT                ║
-╚══════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║  SUBARU // ENGINEERING LAB                                    ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  STATUS      ● BUILDING                                       ║
+║  FOCUS       AI · Full-Stack · IoT                            ║
+║  MODE        EXPERIMENT                                       ║
+║  STACK       Python · TypeScript · Flutter · ESP32            ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
 ## CURRENT OPERATIONS
 
-### DripLink
+<table>
+<tr>
+<td width="50%">
 
-Full-stack platform for 3D model creators and sellers. Next.js 16 + React 19 + Supabase. Auth, dashboards, marketplace, payments.
+### **DripLink**
+Full-stack platform for 3D model creators and sellers.
+Auth · Dashboards · Marketplace · Payments.
 
-`BUILDING`
+`BUILDING` [→](https://github.com/Subaru-tech/driplinkk-website)
 
-[Repository](https://github.com/Subaru-tech/driplinkk-website)
+</td>
+<td width="50%">
 
-### documind
+### **documind**
+Self-hosted document intelligence.
+Chat with PDFs · Extract data · OCR — all local.
 
-Self-hosted document intelligence platform. Chat with PDFs, extract structured data, OCR scanned docs — all running locally via Ollama. No API keys, no cloud.
+`BUILDING` [→](https://github.com/Subaru-tech/documind)
 
-`BUILDING`
+</td>
+</tr>
+<tr>
+<td>
 
-[Repository](https://github.com/Subaru-tech/documind)
+### **Daily News Agent**
+AI-powered news aggregation & verification.
+20+ sources · Telegram digests · Calendar sync.
 
-### Daily News Agent
+`BUILDING` [→](https://github.com/Subaru-tech/Daily-News-Agent)
 
-AI-powered news aggregation, verification, and delivery. 20+ sources, structured + LLM verification, Telegram digests, Google Calendar sync.
+</td>
+<td>
 
-`BUILDING`
+### **med-box**
+IoT + Flutter + Firebase + ESP32.
+Smart notice board with real-time cloud sync.
 
-[Repository](https://github.com/Subaru-tech/Daily-News-Agent)
+`BUILDING` [→](https://github.com/Subaru-tech/med-box)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## WHAT I BUILD
 
-> **Artificial Intelligence**
-> Autonomous agents, AI-native workflows, local models,
-> intelligent interfaces and experimental systems.
+<table>
+<tr>
+<td width="25%">
 
-> **Systems & Infrastructure**
-> Self-hosted platforms, privacy-first architecture,
-> local-first tooling, containerized deployments.
+🧠 **Artificial Intelligence**
 
-> **R&D / Experiments**
-> Rapid prototyping, new paradigms, exploring the edge
-> of what software and hardware can do together.
+Autonomous agents, AI-native workflows, local models, intelligent interfaces.
 
-> **Hardware + Embedded**
-> Microcontrollers, IoT, physical computing,
-> bridging the digital and physical worlds.
+</td>
+<td width="25%">
+
+⚙️ **Systems & Infrastructure**
+
+Self-hosted platforms, privacy-first architecture, containerized deployments.
+
+</td>
+<td width="25%">
+
+🔬 **R&D / Experiments**
+
+Rapid prototyping, new paradigms, exploring the edge of what's possible.
+
+</td>
+<td width="25%">
+
+🤖 **Hardware + Embedded**
+
+Microcontrollers, IoT, physical computing, bridging digital and physical.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## TOOLCHAIN
 
-Python · TypeScript · JavaScript · React · Next.js · FastAPI · Node.js
-Flutter · Dart · Supabase · Firebase · Docker · Ollama · ChromaDB
-Linux · Arduino · ESP32 · IoT · Git · GitHub Actions
-AI/ML · RAG · OCR · APIs · Vite · Tailwind CSS
+```
+Languages    Python · TypeScript · JavaScript · Dart · C/C++ · HTML/CSS
+Frontend     React · Next.js · Tailwind CSS · Vite · Flutter
+Backend      FastAPI · Node.js · Supabase · Firebase
+AI/ML        Ollama · ChromaDB · RAG · OCR · LLMs · Agents
+DevOps       Docker · Linux · Git · GitHub Actions · CI/CD
+Hardware     Arduino · ESP32 · OLED · IoT · Sensors
+```
 
 ---
 
 ## SELECTED PROJECTS
 
-| Project | What it does | Stack | Status |
-|---------|-------------|-------|--------|
-| [DripLink](https://github.com/Subaru-tech/driplinkk-website) | 3D model marketplace — creators upload, sellers sell, full auth + dashboards + payments | Next.js 16 · React 19 · Supabase · Tailwind CSS | `BUILDING` |
-| [documind](https://github.com/Subaru-tech/documind) | Self-hosted document intelligence — chat with PDFs, extract data, OCR, all local | Python · FastAPI · React · Ollama · ChromaDB · Docker | `BUILDING` |
-| [Daily News Agent](https://github.com/Subaru-tech/Daily-News-Agent) | AI news aggregation — 20+ sources, structured + LLM verification, Telegram digests | Python · FastAPI · Telegram Bot · Google Calendar | `BUILDING` |
-| [med-box](https://github.com/Subaru-tech/med-box) | IoT + Flutter + Firebase + ESP32 — smart notice board with real-time cloud sync | Flutter · Dart · Firebase · ESP32 · Arduino | `BUILDING` |
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>What it does</th>
+<th>Stack</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Subaru-tech/driplinkk-website"><b>DripLink</b></a></td>
+<td>3D model marketplace — creators upload, sellers sell, full auth + payments</td>
+<td>Next.js 16 · React 19 · Supabase · Tailwind</td>
+<td><code>BUILDING</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Subaru-tech/documind"><b>documind</b></a></td>
+<td>Self-hosted document intelligence — chat with PDFs, extract data, OCR</td>
+<td>Python · FastAPI · React · Ollama · ChromaDB</td>
+<td><code>BUILDING</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Subaru-tech/Daily-News-Agent"><b>Daily News Agent</b></a></td>
+<td>AI news aggregation — 20+ sources, structured + LLM verification</td>
+<td>Python · FastAPI · Telegram · Google Calendar</td>
+<td><code>BUILDING</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Subaru-tech/med-box"><b>med-box</b></a></td>
+<td>IoT + Flutter + Firebase + ESP32 — smart notice board</td>
+<td>Flutter · Dart · Firebase · ESP32 · Arduino</td>
+<td><code>BUILDING</code></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 ## HOW I BUILD
 
+```
 > Build first.
->
 > Measure what matters.
->
 > Break the system.
->
 > Understand why.
->
 > Ship the next version.
+```
 
 ---
 
-## ACTIVITY MATRIX
+## ACTIVITY
 
-![Subaru's GitHub activity](https://github-readme-stats.vercel.app/api?username=Subaru-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<div align="center">
+
+![Subaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subaru-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subaru-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## CONNECT
 
-[GitHub](https://github.com/Subaru-tech)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subaru-tech)
 
----
+<br/>
 
 ```text
 SYSTEM STATUS: ONLINE
 BUILD STATUS: IN PROGRESS
+LAST DEPLOY:  2026-09-06
 ```
+
+</div>
