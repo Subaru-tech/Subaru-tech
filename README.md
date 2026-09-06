@@ -1,31 +1,47 @@
-<div align="center">
+<p align="center">
+<img src="https://capsvera.vercel.app/api?text=SUBARU&theme=terminal&bg=0d1117&fc=58a6ff&fs=40&font=mono" alt="SUBARU" />
+</p>
 
-# SUBARU
+<h3 align="center">Building systems at the edge of AI, software & hardware.</h3>
 
-### Building systems at the edge of AI, software & hardware.
+<p align="center">
+<code>Builder</code> · <code>Entrepreneur</code> · <code>AI</code> · <code>R&D</code> · <code>Systems</code>
+</p>
 
 <br/>
 
-**Builder** · **Entrepreneur** · **AI** · **R&D** · **Systems**
-
-<br/>
+<table align="center">
+<tr>
+<td>
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  SUBARU // ENGINEERING LAB                                    ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  STATUS      ● BUILDING                                       ║
-║  FOCUS       AI · Full-Stack · IoT                            ║
-║  MODE        EXPERIMENT                                       ║
-║  STACK       Python · TypeScript · Flutter · ESP32            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────┐
+│  STATUS    ● ACTIVE                     │
+│  LOCATION  Earth, Sol System            │
+│  TIME      ██:██:██ UTC                 │
+│  UPTIME    ████████████████████░░░ 83%   │
+└─────────────────────────────────────────┘
 ```
 
-</div>
+</td>
+<td>
+
+```
+┌─────────────────────────────────────────┐
+│  STACK     AI · Full-Stack · IoT        │
+│  LANGS     Python · TypeScript · Dart   │
+│  FRAMEWORKS  React · Next.js · FastAPI  │
+│  HARDWARE  ESP32 · Arduino · Sensors    │
+└─────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
+
+<br/>
 
 ## CURRENT OPERATIONS
 
@@ -33,46 +49,60 @@
 <tr>
 <td width="50%">
 
-### **DripLink**
-Full-stack platform for 3D model creators and sellers.
-Auth · Dashboards · Marketplace · Payments.
+### `DripLink`
+> Full-stack platform for 3D model creators and sellers.
 
-`BUILDING` [→](https://github.com/Subaru-tech/driplinkk-website)
+Auth · Dashboards · Marketplace · Payments · Next.js 16
+
+**Stack:** `Next.js 16` `React 19` `Supabase` `Tailwind`
+
+[`SOURCE` →](https://github.com/Subaru-tech/driplinkk-website)
 
 </td>
 <td width="50%">
 
-### **documind**
-Self-hosted document intelligence.
-Chat with PDFs · Extract data · OCR — all local.
+### `documind`
+> Self-hosted document intelligence platform.
 
-`BUILDING` [→](https://github.com/Subaru-tech/documind)
+Chat with PDFs · Extract data · OCR — all running locally.
+
+**Stack:** `Python` `FastAPI` `React` `Ollama` `ChromaDB`
+
+[`SOURCE` →](https://github.com/Subaru-tech/documind)
 
 </td>
 </tr>
 <tr>
 <td>
 
-### **Daily News Agent**
-AI-powered news aggregation & verification.
+### `Daily News Agent`
+> AI-powered news aggregation & verification system.
+
 20+ sources · Telegram digests · Calendar sync.
 
-`BUILDING` [→](https://github.com/Subaru-tech/Daily-News-Agent)
+**Stack:** `Python` `FastAPI` `Telegram Bot` `Google Calendar`
+
+[`SOURCE` →](https://github.com/Subaru-tech/Daily-News-Agent)
 
 </td>
 <td>
 
-### **med-box**
-IoT + Flutter + Firebase + ESP32.
+### `med-box`
+> IoT + Flutter + Firebase + ESP32 system.
+
 Smart notice board with real-time cloud sync.
 
-`BUILDING` [→](https://github.com/Subaru-tech/med-box)
+**Stack:** `Flutter` `Dart` `Firebase` `ESP32` `Arduino`
+
+[`SOURCE` →](https://github.com/Subaru-tech/med-box)
 
 </td>
 </tr>
 </table>
 
 ---
+
+<br/>
 
 ## WHAT I BUILD
 
@@ -80,30 +110,46 @@ Smart notice board with real-time cloud sync.
 <tr>
 <td width="25%">
 
-🧠 **Artificial Intelligence**
+```
+┌──────────────┐
+│  AI AGENTS   │
+└──────────────┘
+```
 
-Autonomous agents, AI-native workflows, local models, intelligent interfaces.
-
-</td>
-<td width="25%">
-
-⚙️ **Systems & Infrastructure**
-
-Self-hosted platforms, privacy-first architecture, containerized deployments.
+Autonomous agents · AI-native workflows · Local models · Intelligent interfaces
 
 </td>
 <td width="25%">
 
-🔬 **R&D / Experiments**
+```
+┌──────────────┐
+│  SYSTEMS     │
+└──────────────┘
+```
 
-Rapid prototyping, new paradigms, exploring the edge of what's possible.
+Self-hosted platforms · Privacy-first · Containerized · Local-first
 
 </td>
 <td width="25%">
 
-🤖 **Hardware + Embedded**
+```
+┌──────────────┐
+│  R&D         │
+└──────────────┘
+```
 
-Microcontrollers, IoT, physical computing, bridging digital and physical.
+Rapid prototyping · New paradigms · Exploring the edge
+
+</td>
+<td width="25%">
+
+```
+┌──────────────┐
+│  HARDWARE    │
+└──────────────┘
+```
+
+Microcontrollers · IoT · Physical computing · Digital ↔ Physical
 
 </td>
 </tr>
@@ -111,53 +157,70 @@ Microcontrollers, IoT, physical computing, bridging digital and physical.
 
 ---
 
+<br/>
+
 ## TOOLCHAIN
 
 ```
-Languages    Python · TypeScript · JavaScript · Dart · C/C++ · HTML/CSS
-Frontend     React · Next.js · Tailwind CSS · Vite · Flutter
-Backend      FastAPI · Node.js · Supabase · Firebase
-AI/ML        Ollama · ChromaDB · RAG · OCR · LLMs · Agents
-DevOps       Docker · Linux · Git · GitHub Actions · CI/CD
-Hardware     Arduino · ESP32 · OLED · IoT · Sensors
+┌─────────────────────────────────────────────────────────────────┐
+│  LANGUAGES                                                      │
+│  Python · TypeScript · JavaScript · Dart · C/C++ · HTML/CSS     │
+├─────────────────────────────────────────────────────────────────┤
+│  FRONTEND                                                       │
+│  React · Next.js · Tailwind CSS · Vite · Flutter                │
+├─────────────────────────────────────────────────────────────────┤
+│  BACKEND                                                        │
+│  FastAPI · Node.js · Supabase · Firebase                        │
+├─────────────────────────────────────────────────────────────────┤
+│  AI/ML                                                          │
+│  Ollama · ChromaDB · RAG · OCR · LLMs · Agents                 │
+├─────────────────────────────────────────────────────────────────┤
+│  DEVOPS                                                         │
+│  Docker · Linux · Git · GitHub Actions · CI/CD                  │
+├─────────────────────────────────────────────────────────────────┤
+│  HARDWARE                                                       │
+│  Arduino · ESP32 · OLED · Sensors · IoT                         │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
+
+<br/>
 
 ## SELECTED PROJECTS
 
 <table>
 <thead>
 <tr>
-<th>Project</th>
-<th>What it does</th>
-<th>Stack</th>
-<th>Status</th>
+<th>PROJECT</th>
+<th>DESCRIPTION</th>
+<th>STACK</th>
+<th>STATUS</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><a href="https://github.com/Subaru-tech/driplinkk-website"><b>DripLink</b></a></td>
-<td>3D model marketplace — creators upload, sellers sell, full auth + payments</td>
-<td>Next.js 16 · React 19 · Supabase · Tailwind</td>
+<td>3D model marketplace — creators upload, sellers sell</td>
+<td><code>Next.js 16</code> <code>React 19</code> <code>Supabase</code></td>
 <td><code>BUILDING</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Subaru-tech/documind"><b>documind</b></a></td>
-<td>Self-hosted document intelligence — chat with PDFs, extract data, OCR</td>
-<td>Python · FastAPI · React · Ollama · ChromaDB</td>
+<td>Self-hosted document intelligence — chat with PDFs</td>
+<td><code>Python</code> <code>FastAPI</code> <code>Ollama</code> <code>ChromaDB</code></td>
 <td><code>BUILDING</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Subaru-tech/Daily-News-Agent"><b>Daily News Agent</b></a></td>
-<td>AI news aggregation — 20+ sources, structured + LLM verification</td>
-<td>Python · FastAPI · Telegram · Google Calendar</td>
+<td>AI news aggregation — 20+ sources, LLM verification</td>
+<td><code>Python</code> <code>FastAPI</code> <code>Telegram</code></td>
 <td><code>BUILDING</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Subaru-tech/med-box"><b>med-box</b></a></td>
 <td>IoT + Flutter + Firebase + ESP32 — smart notice board</td>
-<td>Flutter · Dart · Firebase · ESP32 · Arduino</td>
+<td><code>Flutter</code> <code>Firebase</code> <code>ESP32</code></td>
 <td><code>BUILDING</code></td>
 </tr>
 </tbody>
@@ -165,17 +228,25 @@ Hardware     Arduino · ESP32 · OLED · IoT · Sensors
 
 ---
 
+<br/>
+
 ## HOW I BUILD
 
 ```
-> Build first.
-> Measure what matters.
-> Break the system.
-> Understand why.
-> Ship the next version.
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  01. BUILD FIRST     Get it running.                            │
+│  02. MEASURE         What matters, what doesn't.                │
+│  03. BREAK           Find the edge cases.                       │
+│  04. UNDERSTAND      Why it broke.                              │
+│  05. SHIP            Next version.                              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
+
+<br/>
 
 ## ACTIVITY
 
@@ -189,18 +260,23 @@ Hardware     Arduino · ESP32 · OLED · IoT · Sensors
 
 ---
 
+<br/>
+
 <div align="center">
 
 ## CONNECT
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subaru-tech)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Subaru-tech)
 
 <br/>
 
-```text
-SYSTEM STATUS: ONLINE
-BUILD STATUS: IN PROGRESS
-LAST DEPLOY:  2026-09-06
+```
+┌─────────────────────────────────────────┐
+│  SYSTEM STATUS: ONLINE                  │
+│  BUILD STATUS: IN PROGRESS              │
+│  LAST UPDATE:  2026-09-06               │
+│  NEXT DEPLOY:  WHEN IT'S READY          │
+└─────────────────────────────────────────┘
 ```
 
 </div>
